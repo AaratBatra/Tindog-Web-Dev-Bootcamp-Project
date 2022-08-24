@@ -164,6 +164,31 @@ h2 {
     width: 100%;
 }
 
+#cta {
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 4% 10%;
+}
+
+#footer {
+    background-color: white;
+    text-align: center;
+}
+
+.foot-icons {
+    text-align: center;
+    font-size: 1rem;
+}
+
+.logos {
+    padding: 1% 1%;
+}
+
+.copyright {
+    color: gray;
+    padding-bottom: 1%;
+}
+
  /* Media Queries */ 
  /* 750px default */
 @media screen and (max-width: 1000px) {
